@@ -1,0 +1,6 @@
+@BestTAsControllersQuiz_HostAddress = http://localhost:5126
+
+GET {{BestTAsControllersQuiz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
